@@ -3,7 +3,7 @@ import { Text, View, Dimensions, Image } from 'react-native';
 import styles from './Style'
 
 const ListItem = (props) => {
-    const { text, wrapper, imageWraper } = styles;
+    const { text, wrapper, imageWraper,miniText } = styles;
     return (
         <View style={wrapper}>
             <Image
@@ -20,7 +20,7 @@ const ListItem = (props) => {
                 </View>
 
                 <View style={{ flexDirection: 'column' , alignSelf: 'flex-end', marginRight:15}}>
-                    <Text style={text}>{props.dateTime}</Text>
+                    <Text style={miniText}>{props.dateTime}</Text>
                 </View>
 
             </View>
