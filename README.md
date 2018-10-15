@@ -1,8 +1,10 @@
 # TheWeatherApp 
 
 Clone down this repo
+
 npm install 
-expo 
+
+expo start
 
 Prerequisites
 
@@ -13,3 +15,7 @@ Prerequisites
     redux: ^3.7.2
     redux-logger: ^3.0.6
     redux-thunk: ^2.2.0
+    
+    ScreenShot
+    
+![alt text](https://github.com/Rehmat-un-Nisa/TheWeatherApp/blob/master/Screenshot/Screenshot_20181015-191944.png)
