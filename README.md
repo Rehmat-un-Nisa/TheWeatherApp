@@ -18,4 +18,6 @@ Prerequisites
     
     ScreenShot
     
-![alt text](https://github.com/Rehmat-un-Nisa/TheWeatherApp/blob/master/Screenshot/Screenshot_20181015-191944.png){:height="50%" width="50%"}
+![alt text](https://github.com/Rehmat-un-Nisa/TheWeatherApp/blob/master/Screenshot/Screenshot_20181015-191944.png)
+
+<img src="https://github.com/Rehmat-un-Nisa/TheWeatherApp/blob/master/Screenshot/Screenshot_20181015-191944.png" width="100" height="100">
