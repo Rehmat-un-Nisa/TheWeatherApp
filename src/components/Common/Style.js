@@ -10,6 +10,14 @@ const styles = {
         fontWeight: 'normal',
         fontStyle: 'normal'
     },
+    miniText: {
+        fontSize: Dimensions.get('window').width * 0.03,
+        color: 'black',
+        textAlign: 'center',
+        alignSelf: 'center',
+        fontWeight: 'normal',
+        fontStyle: 'normal'
+    },
     title: {
         fontSize: (Dimensions.get('window').width) * 0.1,
         backgroundColor: 'transparent',
